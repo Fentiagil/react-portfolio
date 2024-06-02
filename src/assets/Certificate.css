@@ -1,0 +1,13 @@
+.certificate {
+    padding: 20px;
+  }
+  
+  .certificate h1 {
+    color: #333;
+  }
+  
+  .certificate p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
