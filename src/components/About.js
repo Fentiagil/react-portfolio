@@ -8,8 +8,10 @@ function About() {
         <img src="./img/foto.jpg" alt="Your NAME" className="profile-photo" />
       </div>
       <div className="about-info">
-        <h1>Fenti Agil Sakinah S.Kom</h1>
-        <p>I am an undergraduate majoring in informatics at UPN Veteran, East Java. I am good at coding and problem solving. During college, I joined several organizations and internships. I spend most of my time deepening my knowledge in IT. Currently, I am interested in learning to build applications and data processing. I enjoy collaborating on projects.</p>
+        <h1>Fenti Agil Sakinah S.Kom</h1><br/>
+        <p>I am an undergraduate majoring in informatics at UPN Veteran, East Java.  I graduated with a GPA of 3.93 with cumlaude predicate. </p><br/>
+        <p>I am good at coding and problem solving. During college, I joined several organizations and internships. I spent most of my time deepening my knowledge in IT. Currently, I am interested in learning to build applications and data processing. I enjoy collaborating on projects.</p><br/>
+        <p>One of the projects I worked on is an online course application that is used to facilitate students in participating in independent study programs at PT. Otak kanan and a blood donor application that is used to make it easier for people to know the blood stock in real time.</p><br/>
       </div>
       <div className="about-social">
         <a href="https://instagram.com/fentiagl/" target="_blank" rel="noopener noreferrer">

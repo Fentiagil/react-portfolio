@@ -4,7 +4,7 @@ const projectData = [
       id: 1,
       image: '../img/kanban-app.png',
       title: 'Kanban Application',
-      desc: 'The Kanban Application is a task management tool designed to help users create, manage, and track tasks acrossdifferent stages of a workflow. The application features task creation, movement between boards, editing, anddeletion. Additionally, it supports a drag-and-drop mechanism for moving tasks seamlessly. Developed using React JS,the application offers a user-friendly and dynamic interface for efficient task management.',
+      desc: 'The Kanban Application is a task management tool designed to help users create, manage, and track tasks across different stages of a workflow. The application features task creation, movement between boards, editing, and deletion. Additionally, it supports a drag-and-drop mechanism for moving tasks seamlessly. Developed using React JS,the application offers a user-friendly and dynamic interface for efficient task management.',
       link: 'https://kanban-app-fenti.netlify.app/v1'
     },
     {
