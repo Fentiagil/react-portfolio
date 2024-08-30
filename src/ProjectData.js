@@ -4,7 +4,7 @@ const projectData = [
       id: 1,
       image: '../img/kanban-app.png',
       title: 'Kanban Application',
-      desc: 'The Kanban Application is a task management tool designed to help users create, manage, and track tasks across different stages of a workflow. The application features task creation, movement between boards, editing, and deletion. Additionally, it supports a drag-and-drop mechanism for moving tasks seamlessly. Developed using React JS,the application offers a user-friendly and dynamic interface for efficient task management.',
+      desc: 'The Kanban Application is a task management tool designed to help users create, manage, and track tasks across different stages of a workflow. The application features task creation, movement between boards, editing, and deletion. Additionally, it supports a drag-and-drop mechanism for moving tasks seamlessly. Developed using React JS and Node JS,the application offers a user-friendly and dynamic interface for efficient task management.',
       link: 'https://kanban-app-fenti.netlify.app/v1'
     },
     {
@@ -18,8 +18,8 @@ const projectData = [
         id: 3,
         image: '../img/donora.png',
         title: 'Donora - Blood Donation Application',
-        desc: 'Donora is a blood donation application designed to assist users in locating blood stock in their vicinity. The application aims to streamline the process of finding and donating blood, ensuring timely and efficient access to blood supplies. The application supports mobile users and features a web-based admin panel. Donora is developed using HTML, CSS, Bootstrap, Laravel 9, React JS, API, Kotlin, and PostgreSQL.',
-        link: 'https://github.com/otak-kanan/donora-frontend'
+        desc: 'Donora is a blood donation application designed to assist users in locating blood stock in their vicinity. The application aims to streamline the process of finding and donating blood, ensuring timely and efficient access to blood supplies. The application supports mobile users and features a web-based admin panel. Donora is developed using HTML, CSS, Bootstrap, Laravel 9, React JS, Node JS, API, Kotlin, and PostgreSQL.',
+        link: 'https://donora.sigarda.com/'
     },
     {
         id: 4,
@@ -39,7 +39,7 @@ const projectData = [
         id: 6,
         image: '../img/kursus.png',
         title: 'Online Course Application',
-        desc: 'The Online Course Application is a web-based platform designed to provide course materials to users with various pricing options and payment methods. The application supports two types of roles: users (students) and teachers (instructors). Users can browse and enroll in courses, while teachers can create and manage their courses. The project is built using HTML, CSS, Bootstrap, Laravel 9, React JS, and PostgreSQL to ensure a comprehensive and user-friendly experience.',
+        desc: 'The Online Course Application is a web-based platform designed to provide course materials to users with various pricing options and payment methods. The application supports two types of roles: users (students) and teachers (instructors). Users can browse and enroll in courses, while teachers can create and manage their courses. The project is built using HTML, CSS, Bootstrap, Laravel 9, React JS, Node JS and PostgreSQL to ensure a comprehensive and user-friendly experience.',
         link: 'https://kursusonline.com/'
     },
     {

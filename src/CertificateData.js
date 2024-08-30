@@ -19,7 +19,7 @@ const CertificateData = [
     //     image: '../img/donora.png',
     //     title: 'Donora - Blood Donation Application',
     //     desc: 'Donora is a blood donation application designed to assist users in locating blood stock in their vicinity. The application aims to streamline the process of finding and donating blood, ensuring timely and efficient access to blood supplies. The application supports mobile users and features a web-based admin panel. Donora is developed using HTML, CSS, Bootstrap, Laravel 9, React JS, API, Kotlin, and PostgreSQL.',
-    //     link: 'https://github.com/otak-kanan/donora-frontend'
+    //     link: 'https://donora.sigarda.com/'
     // },
     // {
     //     id: 4,
