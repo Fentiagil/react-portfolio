@@ -9,9 +9,10 @@ function About() {
       </div>
       <div className="about-info">
         <h1>Fenti Agil Sakinah S.Kom</h1><br/>
-        <p>I am an undergraduate majoring in informatics at UPN Veteran, East Java.  I graduated with a GPA of 3.93 with cumlaude predicate. </p><br/>
-        <p>I am good at coding and problem solving. During college, I joined several organizations and internships. I spent most of my time deepening my knowledge in IT. Currently, I am interested in learning to build applications and data processing. I enjoy collaborating on projects.</p><br/>
-        <p>One of the projects I worked on is an online course application that is used to facilitate students in participating in independent study programs at PT. Otak kanan and a blood donor application that is used to make it easier for people to know the blood stock in real time.</p><br/>
+        <p>I am a graduate of Informatics from UPN Veteran, East Java, with a GPA of 3.94 and a cum laude predicate. </p><br/>
+        <p>Currently, I work as a Full Stack Programmer, where I have honed my skills in coding, problem-solving, and application development. During my studies, I joined several organizations and internships, which helped me gain practical experience and deepen my knowledge in IT.</p><br/>
+        <p>I have a strong passion for building applications and working with data processing. I also enjoy collaborating on projects to create impactful solutions.</p><br/>
+        <p>One of the notable projects I worked on is an online course application designed to facilitate students in independent study programs at PT. Otak Kanan. Additionally, I developed a blood donor application that helps people access real-time information about blood stock availability. These experiences have strengthened my technical and teamwork skills, which I continue to apply and develop in my current role.</p><br/>
       </div>
       <div className="about-social">
         <a href="https://instagram.com/fentiagl/" target="_blank" rel="noopener noreferrer">

@@ -7,7 +7,8 @@ function Project() {
     <div className="projects">
       <h1>Projects</h1>
       <div className="projects-list">
-        {projectsData.map(project => (
+        {projectsData.slice()
+          .sort((a, b) => b.id - a.id).map(project => (
           <div key={project.id} className="project-card">
             <img src={project.image} alt={project.title} className="project-image" />
             <h2>{project.title}</h2>

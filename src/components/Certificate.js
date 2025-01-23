@@ -7,7 +7,7 @@ function Certificate() {
     <div className="certificate">
       <h1>Certificate</h1>
       <div className="certificate-list">
-        {certificateData.map(certificate => (
+        {certificateData.sort((a, b) => b.id - a.id).map(certificate => (
           <div key={certificate.id} className="certificate-card">
             <img src={certificate.image} alt={certificate.title} className="certificate-image" />
             <div className="certificate-title">
